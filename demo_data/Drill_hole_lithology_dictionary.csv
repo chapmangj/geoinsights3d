@@ -1,0 +1,43 @@
+H0001,Exploration_licence_data_header_file,,,
+H0002,Version,,,
+H0003,Date_generated,,,
+H0004,Reporting_period_end_date,,,
+H0005,State,,,
+H0100,Tenement_no,,,
+H0101,Tenement_holder,,,
+H0102,Project_name,,,
+H0106,Tenement_Operator,,,
+H0200,Start_date_of_data_acquisition,18/10/2007,,
+H0201,End_date_of_data_acquisition,18/10/2017,,
+H0202,Template_format,LDD4,,
+H0203,Number_of_data_records,22,,
+H0300,Related_data_filenames,,,
+H0300,Related_data_filenames,,,
+H0301,Location_data_file,,,
+H0303,Downhole_geochem_data_file,,,
+H0304,Downhole_survey_data_file,Log,,
+H0400,Drill_code,ACORE,PCDD,
+H0401,Contractor,,,
+H0402,Description,ACORE,HQ Diamond drilling,
+H1000,Hole_ID,Recovery,Code,Description
+H1001,Units,%,,
+H1004,Accuracy,0.01,,
+D,MYAC392A,98,rca,Alluvium
+D,MYAC392B,98,sscl,clay
+D,MYAC392B,98,vanv,Andesitic Volcanoclastic Undifferentiated
+D,MYAC394,98,rcs,SOIL
+D,MYAC394,98,sssa,Sand
+D,MYAC394,98,ssgr,Gravel
+D,MYAC394,98,rssu,Upper Saprolite
+D,MYAC394,98,rssl,Lower Saprolite
+D,MYAC394,98,rssr,Saprock
+D,MYAC394,98,icmo,Monzonite               
+D,MYAC400,98,ifap,Aplite
+D,MYAC402,98,icdq,Quartz Diorite
+D,MYAC403,98,sscoc,Calcrete                
+D,MYAC405,98,icd,Diorite         
+D,MYDD407,98,spu,Overburden
+D,MYDD407,98,icdp,Diorite Porphyry
+D,MYDD407,98,bcpi,Breccia
+D,MYDD408,98,icmd,Monzodiorite            
+D,MYDD409,98,ifan,Andesite                

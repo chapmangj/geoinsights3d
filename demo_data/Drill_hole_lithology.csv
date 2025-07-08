@@ -1,0 +1,278 @@
+H0001,Exploration_licence_data_header_file,,,,,,
+H0002,Version,3,,,,,
+H0003,Date_generated,,,,,,
+H0004,Reporting_period_end_date,,,,,,
+H0005,State,,,,,,
+H0100,Tenement_no,,,,,,
+H0101,Tenement_holder,,,,,,
+H0102,Project_name,,,,,,
+H0106,Tenement_Operator,,,,,,
+H0200,Start_date_of_data_acquisition,18/10/2007,,,,,
+H0201,End_date_of_data_acquisition,18/10/2017,,,,,
+H0202,Template_format,DL1,,,,,
+H0203,Number_of_data_records,22,,,,,
+H0300,Related_data_filenames,,,,,,
+H0300,Related_data_filenames,,,,,,
+H0301,Location_data_file,,,,,,
+H0303,Downhole_geochem_data_file,,,,,,
+H0304,Downhole_survey_data_file,Log,,,,,
+H0400,Drill_code,ACORE,PCDD,,,,
+H0401,Contractor,Drillit Consulting Pty Ltd,,,,,
+H0402,Description,ACORE,HQ Diamond drilling,,,,
+H1000,Hole_ID,From,To,Recovery,Lithology,Drill_code,Comments
+H1001,Units,Metres,metres,%,,,
+H1004,Accuracy,,,0.01,,,
+D,DH392A,0,3,98,rca,ACORE,
+D,DH392A,3,12,98,rca,ACORE,
+D,DH392A,12,14,98,rca,ACORE,
+D,DH392A,14,15,98,rca,ACORE,
+D,DH392A,15,21,98,rca,ACORE,
+D,DH392A,21,24,98,rca,ACORE,
+D,DH392A,24,31,98,rca,ACORE,
+D,DH392A,31,35,98,rca,ACORE,
+D,DH392A,35,42,98,rca,ACORE,
+D,DH392B,0,10,98,rca,ACORE,minor lithic clasts (<1mm polymict) throughout.
+D,DH392B,10,13,98,rca,ACORE,minor lithic clasts (<1mmpolymict) throughout. Minor gravely layer 12-13m
+D,DH392B,13,28,98,rca,ACORE,Minor lithic clasts (<1mm polymict) throughout. Gravels
+D,DH392B,28,43,98,rca,ACORE,clay prferentiall balls up from 28-35m
+D,DH392B,43,46,98,rca,ACORE,
+D,DH392B,46,61,98,rca,ACORE,
+D,DH392B,61,66,98,rca,ACORE,
+D,DH392B,66,68,98,rca,ACORE,
+D,DH392B,68,89,98,sscl,ACORE,upper sap
+D,DH392B,89,96,98,sscl,ACORE,lower sap
+D,DH392B,96,104,98,vanv,ACORE,andesitic volcanic with weakly seriticised feldspar (1-4mm) pheno's 0.5%. Fine grained andasitic matrix with diseminated secondary magnetite
+D,DH392B,104,106,98,vanv,ACORE,andesitic volcanic with weakly seriticised feldspar (1-4mm) pheno's 0.5%. Fine grained andasitic matrix with diseminated secondary magnetite
+D,DH393,0,14,98,rca,ACORE,
+D,DH393,14,21,98,rca,ACORE,
+D,DH393,21,27,98,rca,ACORE,
+D,DH393,27,36,98,rca,ACORE,
+D,DH393,36,41,98,rca,ACORE,
+D,DH393,41,48,98,rca,ACORE,
+D,DH393,48,60,98,rca,ACORE,
+D,DH393,60,95,98,sscl,ACORE,small section of degraded sap rock from 81-84m
+D,DH393,95,102,98,vanv,ACORE,
+D,DH393,102,104,98,vanv,ACORE,
+D,DH393,104,106,98,vanv,ACORE,diseminated very fg py In andasitic volcanic with porphyritic texteure. Weakly seiticised feldspars .5-3mm.
+D,DH394,0,1,98,rcs,ACORE,
+D,DH394,1,9,98,sscl,ACORE,
+D,DH394,9,21,98,sscl,ACORE,
+D,DH394,21,30,98,sscl,ACORE,
+D,DH394,30,45,98,sscl,ACORE,
+D,DH394,45,47,98,sscl,ACORE,
+D,DH394,47,50,98,sscl,ACORE,
+D,DH394,50,52,98,sssa,ACORE,
+D,DH394,52,58,98,ssgr,ACORE,
+D,DH394,58,70,98,rssu,ACORE,small <0.5mm manganese nodules 61-62m
+D,DH394,70,75,98,rssu,ACORE,
+D,DH394,75,76,98,rssu,ACORE,
+D,DH394,76,88,98,rssl,ACORE,minor small <0.5mm manganese nodules throughout.
+D,DH394,88,93,98,rssr,ACORE,
+D,DH394,93,101,98,rssr,ACORE,Flow banded alteration overprinting crowded equigranular fine-medium grained monzonite? Minor epidote throughout and abundant diseminated manganese and on fracture surfaces. 
+D,DH394,101,102,98,icmo,ACORE,Flow banded alteration overprinting crowded equigranular fine-medium grained olive green monzonite? Moderate epidote predominately on alteration bands. Abundant diseminated blebby magnatite. Unidentified Iron carbonate infilling micro fractures. 
+D,DH395,0,1,98,rcs,ACORE,
+D,DH395,1,37,98,sscl,ACORE,Transported clays with minor colour variation from light orange brown to creamy brown. Minor small <0.5mm rounded lithic clasts throughout.
+D,DH395,37,38,98,ssgr,ACORE,Tansported subrounded quartz gravel 0.5mm-5mm.
+D,DH395,38,50,98,sscl,ACORE,Transported clays with minor colour variation from light orange brown to creamy brown. Minor small <0.5mm rounded lithic clasts throughout.
+D,DH395,50,57,98,ssgr,ACORE,Tansported subrounded quartz gravel 0.5mm-5mm. Coarser gravels towards the bottom of interval.
+D,DH395,57,72,98,rssu,ACORE,Upper sap defined by high clay content. 
+D,DH395,72,88,98,rssl,ACORE,Lowwer sap defined by reduction in clay content and propensity for clays to form small balls.
+D,DH395,88,96,98,rssr,ACORE,weakly porphritic brownish marroon monzonite with weakly seriticised felpspar pheno's <0.5mm. Abundant manganese nodules and trace epidote altered chips.
+D,DH396,0,1,98,rcs,ACORE,
+D,DH396,1,8,98,sscl,ACORE,
+D,DH396,8,51,98,sscl,ACORE,Transported clays ranging from light orange brown to medium orange brown. Minor lithic fragments throughout.
+D,DH396,51,57,98,ssgr,ACORE,Tansported subrounded quartz gravel 0.5mm-5mm.
+D,DH396,57,79,98,rssu,ACORE,Upper sap defined by high clay content. 
+D,DH396,79,82,98,rssr,ACORE,a few mtrs of sap rock inbetween upper and lower sap.
+D,DH396,82,93,98,rssl,ACORE,Lowwer sap defined by reduction in clay content and propensity for clays to form small balls.
+D,DH396,93,108,98,rssr,ACORE,
+D,DH396,108,109,98,icmo,ACORE,Pervasively epidote altered monzonite? With trace py
+D,DH397,0,15,98,sscl,ACORE,
+D,DH397,15,16,98,ssgr,ACORE,
+D,DH397,16,50,98,sscl,ACORE,
+D,DH397,50,56,98,ssgr,ACORE,
+D,DH397,56,85,98,rssu,ACORE,
+D,DH397,85,93,98,rssl,ACORE,
+D,DH397,93,97,98,rssr,ACORE,
+D,DH397,97,101,98,rssr,ACORE,
+D,DH397,101,103,98,icmo,ACORE,Aphanitic pale olive green Monzonite? Vfg diseminated Py.
+D,DH398,0,1,98,rcs,ACORE,
+D,DH398,1,13,98,sscl,ACORE,
+D,DH398,13,17,98,ssgr,ACORE,
+D,DH398,17,49,98,sscl,ACORE,
+D,DH398,49,54,98,ssgr,ACORE,
+D,DH398,54,63,98,rssu,ACORE,
+D,DH398,63,67,98,rssr,ACORE,
+D,DH398,67,79,98,rssu,ACORE,
+D,DH398,79,83,98,rssl,ACORE,
+D,DH398,83,90,98,rssr,ACORE,
+D,DH398,90,95,98,rssr,ACORE,
+D,DH398,95,100,98,icmo,ACORE,
+D,DH399,0,2,98,rcs,ACORE,
+D,DH399,2,6,98,sscl,ACORE,
+D,DH399,6,8,98,sscl,ACORE,
+D,DH399,8,12,98,sscl,ACORE,
+D,DH399,12,17,98,ssgr,ACORE,
+D,DH399,17,48,98,sscl,ACORE,
+D,DH399,48,51,98,ssgr,ACORE,
+D,DH399,51,55,98,sssa,ACORE,
+D,DH399,55,56,98,ssgr,ACORE,
+D,DH399,56,76,98,rssu,ACORE,
+D,DH399,76,81,98,rssl,ACORE,
+D,DH399,81,91,98,rssr,ACORE,
+D,DH399,91,98,98,rssr,ACORE,
+D,DH399,98,101,98,vanv,ACORE,Weakly porphyritic Andasite. Pheno's are weaklyseriticised and exhibit weak flow alignment. Epidote common
+D,DH400,0,1,98,rcs,ACORE,
+D,DH400,1,29,98,sscl,ACORE,
+D,DH400,29,48,98,sscl,ACORE,
+D,DH400,48,50,98,ssgr,ACORE,
+D,DH400,50,54,98,sscl,ACORE,
+D,DH400,54,56,98,rssr,ACORE,
+D,DH400,56,78,98,rssu,ACORE,
+D,DH400,78,81,98,rssl,ACORE,
+D,DH400,81,82,98,ifap,ACORE,
+D,DH400,82,90,98,rssl,ACORE,
+D,DH400,90,103,98,rssr,ACORE,
+D,DH400,103,106,98,rssr,ACORE,
+D,DH400,106,107,98,vanv,ACORE,Weakly porphyritic Andasite. Pheno's are weaklyseriticised. Diseminated Py 0.5%. Posibly  trace magnetite.
+D,DH401,0,1,98,rcs,ACORE,
+D,DH401,1,6,98,sscl,ACORE,
+D,DH401,6,13,98,sscl,ACORE,
+D,DH401,13,30,98,sscl,ACORE,
+D,DH401,30,41,98,sscl,ACORE,
+D,DH401,41,47,98,sscl,ACORE,
+D,DH401,47,50,98,ssgr,ACORE,49-50 higher proportion of rounded lithic clasts. Poloymict.
+D,DH401,50,52,98,sscl,ACORE,
+D,DH401,52,54,98,sscl,ACORE,
+D,DH401,54,67,98,rssu,ACORE,
+D,DH401,67,73,98,rssl,ACORE,
+D,DH401,73,87,98,rssr,ACORE,Bleached granoblastic monzonite?  with relic felspar phenos. Pervasive moderate sericitite wash
+D,DH401,87,98,98,rssr,ACORE,moderate to weakly prophyritic mozonite. Feldspar phenos are weakly seriticised. Moderate manganese veining and on fracture surfaces. Pervasive moderate epidote alt.
+D,DH402,0,1,98,rcs,ACORE,
+D,DH402,1,17,98,sscl,ACORE,
+D,DH402,17,30,98,sscl,ACORE,
+D,DH402,30,48,98,sscl,ACORE,
+D,DH402,48,51,98,sssa,ACORE,
+D,DH402,51,53,98,ssgr,ACORE,
+D,DH402,53,68,98,rssu,ACORE,
+D,DH402,68,82,98,rssl,ACORE,
+D,DH402,82,89,98,rssr,ACORE,
+D,DH402,89,90,98,icdq,ACORE,
+D,DH403,0,1,98,rcs,ACORE,
+D,DH403,1,14,98,sscl,ACORE,
+D,DH403,14,18,98,sscl,ACORE,
+D,DH403,18,19,98,sscoc,ACORE,calcrete in minor clays with dendritic manganese
+D,DH403,19,29,98,sscl,ACORE,
+D,DH403,29,30,98,sscoc,ACORE,calcrete in minor clays with dendritic manganese
+D,DH403,30,34,98,sscl,ACORE,
+D,DH403,34,42,98,sscl,ACORE,
+D,DH403,42,50,98,sscl,ACORE,
+D,DH403,50,53,98,sssa,ACORE,
+D,DH403,53,54,98,ssgr,ACORE,
+D,DH403,54,55,98,ssgr,ACORE,
+D,DH403,55,66,98,sscl,ACORE,
+D,DH403,66,76,98,rssu,ACORE,
+D,DH403,76,86,98,rssl,ACORE,
+D,DH403,86,90,98,rssr,ACORE,pervasivly epidote altered monzonite?. Abundant oxide filled veinlets.  1cm thick vein 88-89m with completely manganese coated quartz crystals on vein periferies. 
+D,DH403,90,93,98,rssr,ACORE,Monzonite? Diseminated Py 2% in host rock and in thin networked quarts veinlets. Possibly one small spec of moly.sericitically altered relic feldspars and fe oxide infilled veinlets. (Nice Rock)
+D,DH404A,0,1,98,rcs,ACORE,
+D,DH404A,1,6,98,sscl,ACORE,
+D,DH404A,6,11,98,sscl,ACORE,
+D,DH404A,11,13,98,sscl,ACORE,
+D,DH404A,13,25,98,sscl,ACORE,
+D,DH404A,25,34,98,sscl,ACORE,
+D,DH404A,34,40,98,sscl,ACORE,
+D,DH404A,40,44,98,sssa,ACORE,
+D,DH404A,44,48,98,ssgr,ACORE,
+D,DH404A,48,56,98,sscl,ACORE,
+D,DH404A,56,69,98,sscl,ACORE,
+D,DH404A,69,72,98,ssgr,ACORE,
+D,DH404A,72,78,98,sscl,ACORE,
+D,DH404A,78,79,98,ssgr,ACORE,
+D,DH404A,79,80,98,sscl,ACORE,
+D,DH404A,80,81,98,ssgr,ACORE,
+D,DH404A,81,83,98,sssa,ACORE,
+D,DH404A,83,89,98,sscl,ACORE,
+D,DH404A,89,96,98,ssgr,ACORE,
+D,DH404B,0,1,98,rcs,ACORE,
+D,DH404B,1,6,98,sscl,ACORE,
+D,DH404B,6,11,98,sscl,ACORE,
+D,DH404B,11,13,98,sscl,ACORE,
+D,DH404B,13,25,98,sscl,ACORE,
+D,DH404B,25,34,98,sscl,ACORE,
+D,DH404B,34,40,98,sscl,ACORE,
+D,DH404B,40,44,98,sssa,ACORE,
+D,DH404B,44,48,98,ssgr,ACORE,
+D,DH404B,48,56,98,sscl,ACORE,
+D,DH404B,56,69,98,sscl,ACORE,
+D,DH404B,69,72,98,ssgr,ACORE,
+D,DH404B,72,78,98,sscl,ACORE,
+D,DH404B,78,79,98,ssgr,ACORE,
+D,DH404B,79,80,98,sscl,ACORE,
+D,DH404B,80,81,98,ssgr,ACORE,
+D,DH404B,81,83,98,sssa,ACORE,
+D,DH404B,83,89,98,sscl,ACORE,
+D,DH404B,89,93,98,ssgr,ACORE,
+D,DH405,0,4,98,rcs,ACORE,
+D,DH405,4,10,98,sscl,ACORE,
+D,DH405,10,16,98,sscl,ACORE,
+D,DH405,16,39,98,sscl,ACORE,
+D,DH405,39,41,98,sssa,ACORE,
+D,DH405,41,47,98,ssgr,ACORE,
+D,DH405,47,51,98,sscl,ACORE,
+D,DH405,51,55,98,ssgr,ACORE,
+D,DH405,55,65,98,sscl,ACORE,
+D,DH405,65,67,98,ssgr,ACORE,
+D,DH405,67,69,98,sscl,ACORE,
+D,DH405,69,70,98,sssa,ACORE,
+D,DH405,70,75,98,ssgr,ACORE,
+D,DH405,75,84,98,sscl,ACORE,
+D,DH405,84,98,98,ssgr,ACORE,
+D,DH405,98,102,98,ssgr,ACORE,
+D,DH405,102,103,98,sssa,ACORE,
+D,DH405,103,130,98,ssgr,ACORE,no sample from 110-112m
+D,DH405,130,132,98,sscl,ACORE,
+D,DH405,132,137,98,ssgr,ACORE,
+D,DH405,137,140,98,sssa,ACORE,
+D,DH405,140,147,98,ssgr,ACORE,
+D,DH405,147,148,98,icd,ACORE,Pervasive moderately altered chlorite and epidote mg diorite (Propolitic). Epidote veins with sericite selvedge. 3-5% Py. Minor fg magnetite. Possibly some trace malachite staining (or Fuchsite?) on one chip. Minor Phyrrotite reported although personally none sighted. Py appears to also selctively cluster around the rims of relic cholite altered phenocrysts. 
+D,DH406,0,3,98,rcs,ACORE,
+D,DH406,3,11,98,sscl,ACORE,
+D,DH406,11,16,98,sscl,ACORE,
+D,DH406,16,22,98,sscl,ACORE,
+D,DH406,22,24,98,sscl,ACORE,
+D,DH406,24,37,98,sscl,ACORE,
+D,DH406,37,43,98,sssa,ACORE,
+D,DH406,43,46,98,sssa,ACORE,
+D,DH406,46,48,98,ssgr,ACORE,
+D,DH406,48,51,98,sscl,ACORE,
+D,DH406,51,54,98,sssa,ACORE,
+D,DH406,54,57,98,ssgr,ACORE,
+D,DH406,57,66,98,sscl,ACORE,
+D,DH406,66,70,98,ssgr,ACORE,
+D,DH406,70,78,98,sscl,ACORE,
+D,DH406,78,81,98,sssa,ACORE,
+D,DH406,81,87,98,ssgr,ACORE,
+D,DH406,87,100,98,sscl,ACORE,
+D,DH406,100,102,98,sscl,ACORE,
+D,DH406,102,108,98,ssgr,ACORE,
+D,MYDD407,0,109.3,98,spu,PCDD,transported cover. Consisting of clays
+D,MYDD407,109.3,118.56,98,icdp,PCDD,light green cg Porphritic diorite with minor dark green mg crowded equigranular diorite enclaves within.
+D,MYDD407,118.56,128.46,98,bcpi,PCDD,Chloritically altered polymict Clast supported igneous breccia. Clasts mostly rounded and  mainly of dioritic composition with weak potassic alteration. Moderate amount of clasts that are more angular and have been seletively and completetly replaced with silica. Up to 2% epigenetic coarse Py infilling vugs and fractures.  
+D,MYDD407,128.46,138.7,98,icdp,PCDD,light green pervasive phillically altered cg Porphritic diorite. One 25cm thick dark green (Chlorite alt) Porphritic diorite sill. Contact shows that host was stil plastic at time of sill  intrusion.Host diotite has very weak patches of potassic alteration overprinting phyllic alt
+D,MYDD408,0,115.3,98,spu,PCDD,transported cover. Consisting of clays
+D,MYDD408,115.3,117.61,98,icmd,PCDD,equigranular/crowded mozodiorite?. Native copper 1% on fracture surfaces
+D,MYDD408,117.61,122.81,98,icdp,PCDD,strongly fractured moderately porphritic diorite. Porphyry exhibites a number of 'M' veins and potassically altered veins propolitically altered host. 
+D,MYDD408,122.81,135.01,98,icmd,PCDD,equigranular/crowded mozodiorite?. Moderately patchy potassic and propolitic alteration with selective phylicc alteration halo's on brecciated veins. 
+D,MYDD409,0,113.55,98,spu,PCDD,transported cover. Consisting of clays
+D,MYDD409,113.55,115.22,98,ifan,PCDD,amygdioidal andasite with a conformable lower contact with the underlying aphanitic andasite.
+D,MYDD409,115.22,116.05,98,ifan,PCDD,aphanitic green grey andasite.
+D,MYDD409,116.05,127.71,98,ifan,PCDD,apannitic and weakly porphritic in places brecciated andasite. Commonly intruded by brecciated dioritic veins with angular clasts. Epidote alteration common within brecciated veins and in the matrix of the dioritivc veins.
+D,MYDD409,127.71,128.68,98,icd,PCDD,Porphritic dioritic dyke intruding into brecciated andasite. 10-15% Py selectively formed in the Fe rich chloritic blebs.
+D,MYDD409,128.68,129.65,98,ifan,PCDD,
+D,MYDD410,0,116.2,98,spu,PCDD,transported cover. Consisting of clays
+D,MYDD410,116.2,122.3,98,bcpi,PCDD,Polymict breccia. Clasts are up to 30cm
+D,MYDD410,122.3,132.69,98,bcpi,PCDD,Polymict breccia. Clasts are up to 30cm
+D,MYDD411,0,131.5,98,spu,PCDD,transported cover. Consisting of clays
+D,MYDD411,131.5,134.39,98,ifan,PCDD,moderately porphritic mg andasite.  Strong blebby epidote alteration with 0.5% Py and upto 2% diseminated and fracture controled spharerite.
+D,MYDD411,134.39,156.7,98,icd,PCDD,Brx. Porphritic diorite intruding into andasitic-weakly prorphritc andasite. 
