@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+google-genai
+scikit-learn
+Pillow
+matplotlib
+SHAP
+tensorflow==2.17.0
