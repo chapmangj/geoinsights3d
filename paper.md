@@ -25,7 +25,7 @@ Built with a modern Python stack including Streamlit [@streamlit] for the user i
 
 The  contribution of GeoInsights 3D is embodied in its integrated suite of features, which are designed to address specific challenges in the geological workflow:
 
-*   **Data Ingestion and Preparation:** The software directly handles common drilling data formats and includes a length-weighted compositing tool to standardize sample intervals, a critical prerequisite for reliable statistical analysis and modeling.
+*   **Data Ingestion and Preparation:** The software directly handles common drilling data formats.
 
 *   **Statistical Analysis:** The application provides rapid generation of key statistical summaries, including descriptive statistics tables, histograms, and box plots. This allows for immediate quantitative assessment of data distributions and relationships between variables.
 
