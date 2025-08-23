@@ -1,0 +1,15 @@
+# Ignore the user's Streamlit secrets folder
+.streamlit/
+
+# Ignore Python virtual environments
+venv/
+.venv/
+
+# Ignore Python caches and artifacts
+__pycache__/
+*.pyc
+
+# Ignore build and distribution folders
+build/
+dist/
+*.egg-info/

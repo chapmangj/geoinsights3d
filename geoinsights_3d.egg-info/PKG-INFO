@@ -1,10 +1,11 @@
 Metadata-Version: 2.4
 Name: geoinsights-3d
-Version: 1.1
+Version: 1.1012
 Summary: Rapid drilling data visualisation and analysis for geologists with AI.
 Author-email: Gavin Chapman <gavinjchapman@gmail.com>
 Project-URL: Homepage, https://github.com/chapmangj/geoinsights3d
 Project-URL: Tutorial, https://medium.com/@gavinjchapman/geoinsights-3d-rapid-drilling-data-visualisation-and-analysis-for-geologists-with-ai-1163b4039bb1
+Project-URL: User Guide, https://github.com/chapmangj/geoinsights3d/blob/main/GeoInsights%203D%20User%20Guide.pdf
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
@@ -38,6 +39,8 @@ A comprehensive, step-by-step tutorial is available that walks through all the m
 **➡️ [Read the full tutorial on Medium](https://medium.com/@gavinjchapman/geoinsights-3d-rapid-drilling-data-visualisation-and-analysis-for-geologists-with-ai-1163b4039bb1)**
 
 **Project Link: https://github.com/chapmangj/geoinsights3d**
+
+**User Guide: https://github.com/chapmangj/geoinsights3d/blob/main/GeoInsights%203D%20User%20Guide.pdf**
 
 ## Key Features
 
