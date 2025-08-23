@@ -1,0 +1,43 @@
+H0001,Exploration_licence_data_header_file,,,,,,,,,
+H0002,Version,3,,,,,,,,
+H0003,Generated,,,,,,,,,
+H0004,Reporting_period_end_date,,,,,,,,,
+H0005,State,,,,,,,,,
+H0100,Tenement_name,,,,,,,,,
+H0101,Tenement_holder,,,,,,,,,
+H0102,Project_name,,,,,,,,,
+H0106,Tenement_Operator,,,,,,,,,
+H0200,Start_date_of_data_acquisition,18/10/2007,,,,,,,,
+H0201,End_date_of_data_acquisition,18/10/2017,,,,,,,,
+H0202,Template_format,SL1,,,,,,,,
+H0203,Number_of_data_records,22,,,,,,,,
+H0300,Related_data_filenames,,,,,,,,,
+H0302,Downhole_lithology_code_file,,,,,,,,,
+H0303,Downhole_geochem_data_file,,,,,,,,,
+H0304,Downhole_survey_data_file,,,,,,,,,
+H0400,Drilling_code,ACORE,PCDD,,,,,,,
+H0401,Contractor,Drillit Consulting Pty Ltd,Drillit Consulting Pty Ltd,,,,,,,
+H0402,Description,ACORE,HQ Diamond drilling,,,,,,,
+H0500,Feature_located,Hole Collar,Hole Collar,,,,,,,
+H0501,Geodetic_datum,GDA94,GDA94,,,,,,,
+H0502,Vertical_datum,AHD,AHD,,,,,,,
+H0503,Projection,UTM MGA,UTM MGA,,,,,,,
+H0530,Coordinate_system,Projected,Projected,,,,,,,
+H0531,Projection_zone,55,55,,,,,,,
+H0532,Surveying_instrument,N/A,,,,,,,,
+H0533,Surveying_company,N/A,,,,,,,,
+H1000,Hole_ID,MGA_E,MGA_N,Elevation,TD,Drill_code,Dip,Azimuth,Date_Drilled,Remarks
+H1001,Units,Metres,Metres,Metres,Metres,,Degrees,Degrees,,
+H1004,Accuracy,3,3,5,0.1,,,,,
+D,DH392B,594582,6421632,232,106,ACORE,-90,0,16/12/2017,6 inch pvc collar
+D,DH393,594608,6421609,232,106,ACORE,-90,0,17/12/2017,6 inch pvc collar
+D,DH394,594475,6421322,232,102,ACORE,-90,0,17/12/2017,6 inch pvc collar
+D,DH395,594492,6421297,232,96,ACORE,-90,0,18/12/2017,6 inch pvc collar
+D,DH396,594518,6421276,232,109,ACORE,-90,0,18/12/2017,6 inch pvc collar
+D,DH397,594538,6421256,232,103,ACORE,-90,0,19/12/2017,6 inch pvc collar
+D,DH398,594563,6421233,232,100,ACORE,-90,0,19/12/2017,6 inch pvc collar
+D,DH399,594582,6421212,232,101,ACORE,-90,0,20/12/2017,6 inch pvc collar
+D,DH400,594629,6421587,232,107,ACORE,-90,0,20/12/2017,6 inch pvc collar
+D,DH401,594647,6421563,232,98,ACORE,-90,0,11/01/2018,6 inch pvc collar
+D,DH402,594670,6421541,232,90,ACORE,-90,0,12/01/2018,6 inch pvc collar
+D,DH403,594695,6421518,232,93,ACORE,-90,0,12/01/2018,6 inch pvc collar

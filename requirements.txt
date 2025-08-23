@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+google-genai
+scikit-learn
+Pillow
+matplotlib
+SHAP
+tensorflow
+scikit-image
