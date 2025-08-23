@@ -79,3 +79,8 @@ GOOGLE_API_KEY = "YOUR_API_KEY_HERE"
 Once the installation is complete, run the following command from the project's root directory:
 
 geoinsights-3d
+
+
+## Or Try Online
+
+Try the web-hosted version on streamlit at https://github.com/chapmangj/geoinsights3d
