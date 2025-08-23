@@ -11,7 +11,7 @@ geoinsights_3d = ["demo_data/*.csv", "assets/*.png"]
 
 [project]
 name = "geoinsights-3d"
-version = "1.1" 
+version = "1.101" 
 authors = [
   { name="Gavin Chapman", email="gavinjchapman@gmail.com" }, # Corrected a small typo in your email
 ]
@@ -42,7 +42,7 @@ dependencies = [
 [project.urls]
 "Homepage" = "https://github.com/chapmangj/geoinsights3d" 
 "Tutorial" = "https://medium.com/@gavinjchapman/geoinsights-3d-rapid-drilling-data-visualisation-and-analysis-for-geologists-with-ai-1163b4039bb1"
-
+"User Guide" = "https://github.com/chapmangj/geoinsights3d/blob/main/GeoInsights%203D%20User%20Guide.pdf"
 
 [project.scripts]
 geoinsights-3d = "geoinsights_3d.__main__:main"
