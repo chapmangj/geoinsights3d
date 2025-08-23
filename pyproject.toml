@@ -11,10 +11,9 @@ geoinsights_3d = ["demo_data/*.csv", "assets/*.png"]
 
 [project]
 name = "geoinsights-3d"
-version = "1.101" 
+version = "1.1012" 
 authors = [
-  { name="Gavin Chapman", email="gavinjchapman@gmail.com" }, # Corrected a small typo in your email
-]
+  { name="Gavin Chapman", email="gavinjchapman@gmail.com" }, 
 description = "Rapid drilling data visualisation and analysis for geologists with AI."
 readme = "README.md"
 requires-python = ">=3.9"
