@@ -78,8 +78,9 @@ GOOGLE_API_KEY = "YOUR_API_KEY_HERE"
 
 Once the installation is complete, run the following command from the project's root directory:
 
+```bash
 geoinsights-3d
-
+```
 
 ## Or Try Online
 
