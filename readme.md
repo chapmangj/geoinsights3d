@@ -12,6 +12,8 @@ A comprehensive, step-by-step tutorial is available that walks through all the m
 
 **Project Link: https://github.com/chapmangj/geoinsights3d**
 
+**User Guide: https://github.com/chapmangj/geoinsights3d/blob/main/GeoInsights%203D%20User%20Guide.pdf**
+
 ## Key Features
 
 *   **Data Ingestion and Preparation:** The software directly handles common drilling data formats and includes a length-weighted compositing tool to standardize sample intervals, a critical prerequisite for reliable statistical analysis and modeling.
