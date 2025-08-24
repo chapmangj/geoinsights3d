@@ -1,2 +1,0 @@
-[console_scripts]
-geoinsights-3d = geoinsights_3d.__main__:main
